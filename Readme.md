@@ -1,1 +1,1 @@
-This is openclaw test repo.
+This is the Openclaw test repo.
